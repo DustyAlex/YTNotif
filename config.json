@@ -1,0 +1,9 @@
+{
+    "token": "Nzg2NzA4NDg4ODUyMjA5Njg0.X9KVYA.GVeOJs14s53OfT3bJWNKVrMoGKM",
+    "message": "New video: **{videoTitle}**! It was uploaded by {videoAuthorName} at {videoPubDate}! Here is the link: {videoURL}",
+    "channel": "760177781191082054",
+    "youtubers": [
+        "https://www.youtube.com/channel/UCUtb1h9Dw9_23Qs0UBQrd-g"
+    ],
+    "youtubeKey": "AIzaSyDBwKz6YBu8toylt7SigDY9YL5z-hpABr0"
+}
